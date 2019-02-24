@@ -33,7 +33,7 @@ function Bio() {
             <p>
               Blog by
               {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>{author}.</a>
+              <a href={`https://twitter.com/${social.twitter}`}>{author}</a>.
             </p>
           </div>
         );
