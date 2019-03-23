@@ -39,6 +39,8 @@ module.exports = {
               wrapperStyle: `margin-bottom: 1.0725rem`
             }
           },
+          // Support syntax highlighting
+          // Docs: https://www.gatsbyjs.org/packages/gatsby-remark-prismjs/
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`
